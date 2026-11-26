@@ -17,7 +17,7 @@
 
 ### Ссылки
 
-- URL решения: [Github](https://github.com/SleepyMaks888/ono-tebe-nado)
+https://github.com/SleepyMaks888/ono-tebe-nado
 
 ## Автор
 
